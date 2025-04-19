@@ -1,2 +1,2 @@
 # Ottitor-Issues
-This repository is for tracking all issues, comments or feedback regarding Ottitor extension and Ottitor.com 
+This repository is for tracking all issues, comments, and feedback, regarding the Ottitor extension and Ottitor.com 
